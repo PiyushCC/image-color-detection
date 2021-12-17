@@ -1,7 +1,7 @@
 # image-color-detection
 A python project to detect the color of a point in an image.
 
-This project is developed by Piyush C, Pushkar G, Shivam G.
+This project is developed by Piyush C, Pushkar G, Shivam G, Arun Samuel.
 
 ---------------------------------------------------------------
 
